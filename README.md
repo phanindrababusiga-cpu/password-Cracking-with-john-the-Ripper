@@ -100,23 +100,17 @@ john --show --format=PDF pdf_hash.txt
 
 Screenshots below document the actual practical implementation.
 
-### 1. John the Ripper Installation
-
-\<!-- Add installation screenshot here -->
-
-### 2. PDF Hash Extraction
-
-\<!-- Add hash extraction screenshot here -->
-
-### 3. RockYou Wordlist
-
-\<!-- Add wordlist screenshot here -->
-
-### 4. Password Recovery – Practical 1
+### 1. Password Recovery – Practical 1
 
 \<!-- Add first successful recovery screenshot here -->
 
-### 5. Password Recovery – Practical 2
+### 2. Password Recovery – Practical 2
+
+### 3. Password Recovery – Practical 3
+
+\<!-- Add first successful recovery screenshot here -->
+
+### 4. Password Recovery – Practical 4
 
 \<!-- Add second successful recovery screenshot here -->
 
