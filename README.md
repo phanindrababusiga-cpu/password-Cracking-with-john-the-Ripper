@@ -102,9 +102,10 @@ Screenshots below document the actual practical implementation.
 
 ### 1. Password Recovery – Practical 1
 
-\<!-- Add first successful recovery screenshot here -->
+[!image alt](https://github.com/phanindrababusiga-cpu/password-Cracking-with-john-the-Ripper/blob/872a3f6bba9a30d3c443cbcc72b2dabe85de4d77/password%20unlock%201.jpeg)
 
 ### 2. Password Recovery – Practical 2
+
 
 ### 3. Password Recovery – Practical 3
 
