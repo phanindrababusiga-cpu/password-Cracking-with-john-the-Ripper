@@ -1,4 +1,4 @@
-# 🔐 PDF Password Cracking Using John the Ripper
+# 🔐 PDF Password Cracking With John the Ripper
 
 ### Hands-on Cybersecurity | Ethical Hacking | Kali Linux
 
